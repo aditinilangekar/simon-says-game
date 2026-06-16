@@ -21,5 +21,4 @@ A fun and interactive Simon Says memory game built using HTML, CSS, and JavaScri
 4. Advance through levels by matching the sequence correctly.
 5. The game ends if you click the wrong color.
 
-## Author
-Aditi Nilangekar
+
